@@ -8,6 +8,9 @@ Start planet restructure.
 Day 3
 Atomsphere is stable moving to stage 2
 
-Day 5
+Day 4
+Water is starting to appear
 
+Day 5
 Water is clearing up
+
