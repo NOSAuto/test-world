@@ -18,3 +18,5 @@ Day 6
 Add plant life to water now that pH has stablized.  Added cat tails
 Desided to add lilly's as well
 
+Day 7
+Add more plants to water along with snails and bass
