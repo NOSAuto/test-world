@@ -20,3 +20,4 @@ Desided to add lilly's as well
 
 Day 7
 Add more plants to water along with snails and bass
+Added minnows and leaches
