@@ -15,5 +15,5 @@ Day 5
 Water is clearing up
 
 Day 6
-Add plant life to water now that pH has stablized
+Add plant life to water now that pH has stablized.  Added cat tails
 
